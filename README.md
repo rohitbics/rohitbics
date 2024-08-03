@@ -19,7 +19,7 @@ I am a passionate Software Engineer with 7 years of experience in the industry. 
 
 ## 📫 How to reach me
 - **Email:** [brawnybytes14@gmail.com](mailto:brawnybytes14@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/brawnybytes/))
+- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/brawnybytes/)
 
 ## 😄 Pronouns
 He/Him
